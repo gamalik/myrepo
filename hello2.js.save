@@ -1,0 +1,5 @@
+#!/usr/bin/env node
+
+var 
+var outfile = "hello/txt";
+var out = "lol"
